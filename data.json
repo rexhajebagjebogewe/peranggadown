@@ -1,0 +1,59 @@
+{
+  "website": {
+    "name": "Rexha",
+    "tagline": "Belajar Nembak Tanpa Amping",
+    "description": "Website belajar nembak dengan fokus agresif playstyle, akurasi, dan teknik."
+  },
+  "menu": [
+    {
+      "id": "home",
+      "title": "Home"
+    },
+    {
+      "id": "docs",
+      "title": "Docs"
+    },
+    {
+      "id": "no-amping",
+      "title": "No Amping"
+    },
+    {
+      "id": "keyser",
+      "title": "Keyser"
+    }
+  ],
+  "docs": {
+    "noAmping": {
+      "title": "Docs No Amping",
+      "description": "Gaya bermain aktif tanpa camping dan tanpa nunggu musuh.",
+      "rules": [
+        "Selalu bergerak",
+        "Cari first contact",
+        "Jangan nunggu musuh lewat"
+      ]
+    },
+    "susano": {
+      "title": "Susano Docs",
+      "type": "2 Kepala",
+      "description": "Fokus ke dua target utama dengan cepat dan presisi.",
+      "technique": [
+        "Head level tracking",
+        "Double peek",
+        "Timing refleks cepat"
+      ]
+    }
+  },
+  "method": {
+    "name": "Keyser",
+    "description": "Teknik nembak satu keputusan satu gerakan.",
+    "steps": [
+      "Posisikan crosshair sejajar kepala",
+      "Micro pause sebelum nembak",
+      "Tap atau burst singkat"
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 Rexha",
+    "note": "Belajar nembak tanpa amping"
+  }
+}
